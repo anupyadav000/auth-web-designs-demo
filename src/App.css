@@ -1,0 +1,8 @@
+/* Add this CSS to your component's CSS file or App.css */
+
+.text-container {
+  font-size: 24px; /* Adjust the font size to your preference */
+  font-family: 'Arial', sans-serif; /* Adjust the font family if needed */
+  border: 1px solid #ccc; /* Just for visualization purposes */
+  padding: 10px; /* Add padding to the container */
+}
